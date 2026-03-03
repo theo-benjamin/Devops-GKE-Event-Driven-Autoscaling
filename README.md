@@ -1,7 +1,7 @@
 # Event-driven autoscaling with KEDA in GKE
 Author : Theo Benjamin
 Date : 3rd February 2026
-This repository contains the sample application and template files used in the article [Event-Driven Autoscaling in Kubernetes: Harnessing the Power of KEDA](https://www.doit.com/event-driven-autoscaling-in-kubernetes-harnessing-the-power-of-keda/) published on Medium.
+
 
 ## Overview
 The purpose of this repository is to provide a reference implementation for event-driven autoscaling in Kubernetes using KEDA. It includes a sample application and the necessary template files to demonstrate the concepts discussed in the article.
